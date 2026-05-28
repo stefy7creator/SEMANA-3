@@ -1,0 +1,9 @@
+Mantener un registro de cambios detallado mediante herramientas como Git es vital en
+el desarrollo de software porque garantiza la trazabilidad y la seguridad de todo el código fuente.
+Esta práctica funciona como una máquina del tiempo que permite a los desarrolladores identificar 
+exactamente qué se cambió, cuándo se hizo y quién fue el responsable de cada modificación.
+En caso de que se introduzca un error inesperado en el sistema, el equipo puede revertir el proyecto a una versión estable 
+anterior de manera inmediata, minimizando pérdidas. Además, el control de versiones es el pilar fundamental que 
+facilita el trabajo en equipo, ya que evita que varios programadores sobrescriban el trabajo de los demás de forma accidental.
+En conclusión, un historial estructurado no es solo una buena práctica de organización, sino
+un seguro de vida para la estabilidad, escalabilidad y mantenimiento a largo plazo de cualquier proyecto tecnológico.
